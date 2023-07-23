@@ -4,10 +4,10 @@ import Container from 'components/Container/Container';
 import { FormSearch, InputSearch, ButtonSubmit } from './SearchBar.styled';
 import { FaSearch } from 'react-icons/fa';
 
-function SearchBar() {
+const SearchBar = () => {
   const location = useLocation();
   const navigate = useNavigate();
-  const setValue = useState('');
+  const [value, setValue] = useState('');
 
   function onSubmitForm(e) {
     e.preventDefault();
@@ -26,6 +26,7 @@ function SearchBar() {
           type="text"
           name="query"
           onChange={e => setValue(e.target.value)}
+          value={value}
         />
         <ButtonSubmit type="submit">
           <FaSearch />
@@ -33,9 +34,9 @@ function SearchBar() {
       </FormSearch>
     </Container>
   );
-}
+};
 
-export default SearchBar;
+export { SearchBar };
 
 // const SearchBar = ({ onSubmit }) => {
 //   const [value, setValue] = useState('');

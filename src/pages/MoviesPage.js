@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import { useLocation } from 'react-router-dom';
 import getSearchMovies from 'API/get-search-movies';
-import SearchBar from 'components/SearchBar/SearchBar';
+import { SearchBar } from 'components/SearchBar/SearchBar';
 import Container from 'components/Container/Container';
 import MoviesList from 'components/MoviesList/MoviesList';
 
