@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/goit-react-hw-05-movies/static/css/main.2c7c5ceb.css",
-    "main.js": "/goit-react-hw-05-movies/static/js/main.75eea5f2.js",
+    "main.js": "/goit-react-hw-05-movies/static/js/main.3e56e792.js",
     "home-page.js": "/goit-react-hw-05-movies/static/js/home-page.97644c70.chunk.js",
-    "movies-page.js": "/goit-react-hw-05-movies/static/js/movies-page.3e237758.chunk.js",
+    "movies-page.js": "/goit-react-hw-05-movies/static/js/movies-page.88c35ee9.chunk.js",
     "movie-details-page.js": "/goit-react-hw-05-movies/static/js/movie-details-page.05bd156f.chunk.js",
     "cast-view.js": "/goit-react-hw-05-movies/static/js/cast-view.374725f4.chunk.js",
     "review-view.js": "/goit-react-hw-05-movies/static/js/review-view.ce4c1d8b.chunk.js",
@@ -11,15 +11,15 @@
     "static/media/actor.png": "/goit-react-hw-05-movies/static/media/actor.39801e9f8151ec6d8667.png",
     "index.html": "/goit-react-hw-05-movies/index.html",
     "main.2c7c5ceb.css.map": "/goit-react-hw-05-movies/static/css/main.2c7c5ceb.css.map",
-    "main.75eea5f2.js.map": "/goit-react-hw-05-movies/static/js/main.75eea5f2.js.map",
+    "main.3e56e792.js.map": "/goit-react-hw-05-movies/static/js/main.3e56e792.js.map",
     "home-page.97644c70.chunk.js.map": "/goit-react-hw-05-movies/static/js/home-page.97644c70.chunk.js.map",
-    "movies-page.3e237758.chunk.js.map": "/goit-react-hw-05-movies/static/js/movies-page.3e237758.chunk.js.map",
+    "movies-page.88c35ee9.chunk.js.map": "/goit-react-hw-05-movies/static/js/movies-page.88c35ee9.chunk.js.map",
     "movie-details-page.05bd156f.chunk.js.map": "/goit-react-hw-05-movies/static/js/movie-details-page.05bd156f.chunk.js.map",
     "cast-view.374725f4.chunk.js.map": "/goit-react-hw-05-movies/static/js/cast-view.374725f4.chunk.js.map",
     "review-view.ce4c1d8b.chunk.js.map": "/goit-react-hw-05-movies/static/js/review-view.ce4c1d8b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2c7c5ceb.css",
-    "static/js/main.75eea5f2.js"
+    "static/js/main.3e56e792.js"
   ]
 }
